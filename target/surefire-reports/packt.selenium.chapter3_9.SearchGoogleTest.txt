@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: packt.selenium.chapter3_9.SearchGoogleTest
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.46 sec
