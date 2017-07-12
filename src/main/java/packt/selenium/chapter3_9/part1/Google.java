@@ -13,7 +13,7 @@ public class Google {
 		this.driver = driver;
 		this.baseURL = "http://www.google.com";
 		this.driver.get(baseURL + "/?gws_rd=cr&ei=y4FmWeTjLdDMwQLbo6CYBQ");
-		if(!driver.getTitle().equals("Google-Selenium")){
+		if(!driver.getTitle().equals("Google")){
 			try {
 				throw new Exception();
 			} catch (Exception e) {
